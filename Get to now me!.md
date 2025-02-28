@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evnova
 - 👀 I’m interested in Python, Java, JavaScript and Ruby
 - 🌱 I’m currently majoring in Computer Science
-- 📫 How to reach me: via email (esthervilanovab@gmail.com)
+- 📫 How to reach me: via email (esthervilanovacosta@gmail.com)
 - 😄 Pronouns: she/her
 
 <!---
